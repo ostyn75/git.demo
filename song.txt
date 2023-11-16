@@ -2,5 +2,6 @@ first string
 second string
 third str
 fourth str
-
 main commit
+  added in branch feture1
+addet after main commit
