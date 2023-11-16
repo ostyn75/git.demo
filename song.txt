@@ -4,3 +4,5 @@ third str
 fourth str
   added in branch feture1
 addet after main commit
+
+added in feat1 2
